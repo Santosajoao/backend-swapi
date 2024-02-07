@@ -79,7 +79,7 @@ async function realizarVarreduraPrincipal(tableName, endpoint) {
     await client.connect();
     await client.query(`
       CREATE TABLE IF NOT EXISTS ${tableName} (
-        -- Adicione mais colunas conforme necessário
+        
       )
     `);
 
