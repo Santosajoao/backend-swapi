@@ -31,5 +31,4 @@ Edite as configurações de banco de dados no código (const config{}) conforme 
    ```bash
    npm install
 
-
 Isso irá criar tabelas no banco de dados (se não existirem) e inserir os dados dos diferentes endpoints da SWAPI.
