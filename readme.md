@@ -29,6 +29,6 @@ Edite as configurações de banco de dados no código (const config{}) conforme 
 2. Execute o script para realizar a varredura e armazenar os dados no banco de dados:
    
    ```bash
-   npm install
+   node script.js
 
 Isso irá criar tabelas no banco de dados (se não existirem) e inserir os dados dos diferentes endpoints da SWAPI.
